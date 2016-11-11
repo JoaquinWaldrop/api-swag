@@ -1,0 +1,14 @@
+{
+  "scopes": "scope1 scope2 scope3 scope4",
+  "roles": {
+    "super": [
+      "scope1",
+      "scope2",
+      "scope3",
+      "scope4"
+      ],
+    "editor": [
+      "scope1"
+    ]
+  }
+}

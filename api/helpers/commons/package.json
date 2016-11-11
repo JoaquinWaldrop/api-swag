@@ -1,0 +1,8 @@
+{
+  "name": "init swagger",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Sets the options on the swagger file",
+  "author": "Joaquin Molina",
+  "main": "init.js"
+}

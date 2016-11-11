@@ -1,0 +1,9 @@
+{
+  "name": "oauth",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Manege oauth bearer functions",
+  "author": "Gustavo Laguna",
+  "license": "MIT",
+  "main": "oauth.js"
+}

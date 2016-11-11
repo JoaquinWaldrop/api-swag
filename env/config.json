@@ -1,0 +1,16 @@
+{
+	"redis": {
+	    "host": "localhost",
+	    "port": 6379,
+	    "encryptionKey": "1234567890abc",
+	    "devRequest": {
+	      "firstName": "Joaquin Miguel",
+	      "lastName": "Molina Molina",
+	      "email": "jmolina@teravisiontech.com",
+	      "userName": "jmolina@teravisiontech.com"
+	    },
+	    "appRequest": {
+	      "name": "Api Swag"
+	    }
+  	}
+}

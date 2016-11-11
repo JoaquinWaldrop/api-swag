@@ -1,0 +1,9 @@
+{
+  "name": "error-handler",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Handle common error responses",
+  "author": "Gustavo Laguna",
+  "license": "MIT",
+  "main": "error.js"
+}
