@@ -1,2 +1,2 @@
 # api-swag
-Implementación de Swagger con OAuth2.0 y Sequelize
+Implementación de Swagger con OAuth2.0(Volos sobre redis) y Sequelize
